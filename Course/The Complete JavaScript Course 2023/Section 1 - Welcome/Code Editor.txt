@@ -1,0 +1,10 @@
+Visual Studio Code
+
+Extension : Monokai Pro
+
+Settings : 
+Auto Save - OnFocusChange
+Font Size - 18
+Multi Cursor Modifier - ctrlCmd
+Word Wrap - On
+Format On Save - On
